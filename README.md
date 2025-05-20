@@ -24,12 +24,12 @@
 - [ ] **Phase 4:** Frontend dashboard & metrics
 - [ ] **Phase 5:** Threat intelligence & ML enrichment
 
-## 🧪 Development & Deployment
+##  Development & Deployment
 - Python 3.11+, Node.js 18+
 - Docker / Docker Compose
 - GitHub Actions for CI/CD (planned)
 
-## 👤 Author
+##  Author
 Ayanda Timothy Kutobwa  
 M.S. Cybersecurity, Pace University  
 [Email](mailto:akutobwa@gmail.com)
