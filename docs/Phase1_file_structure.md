@@ -1,4 +1,4 @@
-| Path to create                        | What it’s for                           |
+| Path                                  | What it’s for                           |
 | ------------------------------------- | --------------------------------------- |
 | `ingestion/filebeat/filebeat.yml`     | For configuring log shippers            |
 | `ingestion/syslog/syslog_receiver.py` | Your own Python syslog listener         |
