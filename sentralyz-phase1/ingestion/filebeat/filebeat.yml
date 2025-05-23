@@ -1,0 +1,10 @@
+filebeat.inputs:
+  - type: log
+    enabled: true
+    paths:
+      - /var/log/syslog
+      - /var/log/auth.log
+
+output.udp:
+  host: "host.docker.internal"
+  port: 5140
